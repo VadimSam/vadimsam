@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [EIC](https://github.com/VadimSam/EIC) and [nVidia CUDA practice](https://github.com/VadimSam/CUDA-pract).
-- 🌱 I’m currently learning [nVidia CUDA](https://github.com/VadimSam/CUDA-pract).
-- 👯 I’m looking to collaborate on [EIC](https://github.com/VadimSam/EIC).
-- 🤔 I’m looking for help with CUDA.
+- 🔭 I’m currently working on nothing particular.
+- 🌱 I’m currently learning [Haskell](https://github.com/VadimSam/CUDA-pract) using [@bravit](https://github.com/bravit)'s [book](https://www.manning.com/books/haskell-in-depth).
+- 👯 I’m looking to collaborate on nothing.
+- 🤔 I’m looking for help with Haskell.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [E-Mail](mailto:samohvalovvadim3141@gmail.com)/[Telegram](https://t.me/VadimSam).
 - 😄 Pronouns: He/Him.

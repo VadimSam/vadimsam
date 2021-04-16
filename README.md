@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on nothing particular.
-- 🌱 I’m currently learning [Haskell](https://github.com/VadimSam/CUDA-pract) using [@bravit](https://github.com/bravit)'s [book](https://www.manning.com/books/haskell-in-depth).
+- 🌱 I’m currently learning [Haskell](https://github.com/VadimSam/Haskell-learn) using [@bravit](https://github.com/bravit)'s [book](https://www.manning.com/books/haskell-in-depth).
 - 👯 I’m looking to collaborate on nothing.
 - 🤔 I’m looking for help with Haskell.
 - 💬 Ask me about anything.
